@@ -1,7 +1,5 @@
-### Hi there 👋 My name is Jamon Dixon and I am a Full-stack Software Engineer.  After several unfufilling years in the cannabis industry I have decided to switch gears and follow a path into technology.    
+### Hi there 👋 My name is Jamon Dixon and I am a Full-stack Software Engineer.  After several unfufilling years in the cannabis industry I have decided to switch gears and follow a path into technology. I hope to create beautifully useful applications for people of all walks of life.   
 
-<!--
-**Jamondixon/Jamondixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![GithubHeader](https://user-images.githubusercontent.com/75591609/119280692-b731bc80-bbef-11eb-8c38-d892dc798ccd.png)
 
@@ -15,5 +13,3 @@
 - ⚡ Fun fact: I am in the Youth Baseball Hall of Fame in Cooperstown, NY.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Jamondixon=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
--->
