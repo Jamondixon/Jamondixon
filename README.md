@@ -1,4 +1,4 @@
-### 👋  Hi my name is Jamon Dixon and I am a Full-stack Software Engineer.  After feeling unfufilled in my previous career path, I have decided to switch gears and follow a new path into technology. I'd love to make use of my ability to learn fast and adapt to my surroundings, all while feeling like I am making a difference.  My goal is to create beautifully useful applications for people from all walks of life, and have fun while I do it! 👋  
+### 👋  Hi my name is Jamon Dixon and I am a Full-stack Software Engineer.  After feeling unfufilled in my previous career path, I have decided to switch gears and follow a new path into technology. I'd love to make use of my ability to learn fast and adapt to my surroundings, while making a difference in people's lives.  My goal is to create beautifully useful applications for people from all walks of life and have fun while I do it! 👋  
 
 
 ![GithubHeader](https://user-images.githubusercontent.com/75591609/119280692-b731bc80-bbef-11eb-8c38-d892dc798ccd.png)
