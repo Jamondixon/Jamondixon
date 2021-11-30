@@ -4,11 +4,11 @@
 ![GithubHeader](https://user-images.githubusercontent.com/75591609/119280692-b731bc80-bbef-11eb-8c38-d892dc798ccd.png)
 
 
-- 🔭 I’m currently working on a portfolio website to showcase my work
-- 🌱 I’m currently learning React.js and Node.js is up next
+- 🔭 I’m currently tweaking my portfolio website
+- 🌱 I’m currently learning java
 - 🤔 I’m looking for help in finding a job
 - 💬 Check out my blogs: https://jamondixon.medium.com/
-- 📫 How to reach me: https://www.linkedin.com/in/jamondixon/ | Jamonadixon@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/jamondixon/ | Jamonadixon@gmail.com | jamondixon.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am in the Youth Baseball Hall of Fame in Cooperstown, NY. ⚾️
 
